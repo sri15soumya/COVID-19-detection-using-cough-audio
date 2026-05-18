@@ -1,4 +1,4 @@
-# CoughNet — COVID-19 Detection from Cough Audio
+# Coughcheck — COVID-19 Detection from Cough Audio
 
 A deep learning pipeline that classifies COVID-19 from cough recordings using Mel spectrogram features and a custom 4-block CNN. Built on the [COUGHVID dataset](https://zenodo.org/record/4498364).
 
