@@ -1,0 +1,17 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Models
+*.keras
+*.h5
+*.pth
+
+# MLflow
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
